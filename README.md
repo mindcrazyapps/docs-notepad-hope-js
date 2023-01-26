@@ -1,6 +1,9 @@
-## docs-notepad-hope-js
-docs for hope-js in notepad++
+<p align="center">
+ <img src="https://cdn-icons-png.flaticon.com/512/4147/4147869.png" alt="image" width="70px">
+</p>
 
+## docs-notepad-hope-js
+Documentatiom for syntax-highlighting hope-js in notepad++
 
 ## About NextExperience
 
