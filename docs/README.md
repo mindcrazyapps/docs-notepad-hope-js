@@ -1,0 +1,1 @@
+# notepad+hope.js
