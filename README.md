@@ -3,9 +3,9 @@
 </p>
 
 ## docs-notepad-hope-js
-Documentatiom for syntax-highlighting hope-js in notepad++
+Documentatiom for syntax-highlighting hope-js in Notepad++
 
-## About NextExperience
+## about NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
 
