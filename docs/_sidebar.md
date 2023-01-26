@@ -8,7 +8,9 @@
 
 * [homepage](/README.md)
 * [RFC](/rfc/README.md)   
-* [Use case](/rfc/README.md)   
+* [Use case 1](/case1/README.md)   
+* [Use case 2](/case2/README.md)   
+* [Rules](/rules/README.md)   
 * [Tests](/rfc/README.md)   
 * [Concept](/rfc/README.md)   
 * [Benchmarking](/rfc/README.md)   
