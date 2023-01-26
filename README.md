@@ -5,7 +5,7 @@
 ## docs-notepad-hope-js
 Documentatiom for syntax-highlighting hope-js in Notepad++
 
-## about NextExperience
+## About NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
 
