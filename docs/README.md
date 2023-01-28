@@ -1,4 +1,4 @@
-# notepad+hope.js
+# Notepad++ + Hope.js
 ```xml
 <NotepadPlus>
     <UserLang name="LogFile" ext="log">
