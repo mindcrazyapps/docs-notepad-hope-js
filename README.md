@@ -5,6 +5,9 @@
 ## docs-notepad-hope-js
 Documentatiom for syntax-highlighting hope-js in Notepad++
 
+## screenshot
+![image](https://user-images.githubusercontent.com/123137817/215300314-1c96e016-2e88-4e6b-b398-193c074db48c.png)
+
 ## About NextExperience
 
 <img align="right" width="120" height="120" src="https://cdn-icons-png.flaticon.com/512/1600/1600856.png" hspace="50">
